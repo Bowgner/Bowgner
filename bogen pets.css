@@ -1,0 +1,152 @@
+@charset "UTF-8";
+.fontdiner-swanky-regular{
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.fontdiner-swanky-regular {
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dynapuff-uniquifier {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.heading{font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+	font-style: normal; }
+.about{width: 1840px; 
+	background-color:white;
+border: 5px black solid; 
+	border-radius: 40px;justify-content: space-between;font-size: 30px; 
+	margin:auto;
+	margin-top: 10px;
+	text-align: center;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pages ul {display: flex;justify-content: space-between;}
+
+.pages li{list-style-type:none; 
+text-align: center;
+width:400px;
+background-color:#44A3F8;
+border: 5px black solid; 
+border-radius: 30px;
+text-decoration: none;
+font-size: 20px;
+font-size:50px} 
+h1 {text-align: center;font-size: 50px;width: 840px; 
+	background-color:white;
+border: 5px black solid; 
+	border-radius: 40px;margin:auto}
+
+.wabout {text-align: center;font-size: 20px;font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+	font-style: normal;width: 400px; 
+	background-color:white;
+border: 5px black solid; 
+	border-radius: 30px; 
+margin: auto;}
+
+body {background-image: url("grass2.jpg")}
+.copyright{background-color:#44A3F8;
+border: 5px black solid; 
+	border-radius: 10px;
+	width: 200px;
+	text-align: center; 
+	margin:auto;
+	margin-top: 10px
+}
+
+
+
+
+.email {background-color:#537977;
+border: 5px black solid; 
+	border-radius: 20px;
+	width: 600px;
+	text-align: center;
+	margin:auto;
+	margin-top: 10px}
+
+.Luna{text-align: center;font-size: 20px;font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+	font-style: normal;width: 120px; 
+	background-color:white;
+border: 5px black solid; 
+	border-radius: 30px; 
+	margin: auto;}
+.proscons {text-align: center;font-size: 15px;font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+	font-style: normal;width: 220px; 
+	background-color:#44A3F8;
+	border: 5px black solid; 
+	border-radius: 30px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.origins{text-align: center;font-size: 15px;font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+	font-style: normal;width: 230px; 
+	background-color:#44A3F8;
+border: 5px black solid; 
+	border-radius: 30px;margin: auto;
+    margin-top: 10px}
+
+p   {font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+	  "wdth" 100;}
+
+.procon2 {text-align: center;font-size: 23px;font-family: "Fontdiner Swanky", serif;
+ 
+	font-weight: 400;
+	font-style: normal;width: 1300px; 
+	background-color:white;
+
+	border: 5px black solid; 
+	border-radius: 30px;
+	margin:auto;
+	margin-top: 10px
+}
+.Lucky{text-align: center;font-size: 20px;font-family: "Fontdiner Swanky", serif;
+  font-weight: 400;
+	font-style: normal;width: 120px; 
+	background-color:white;
+border: 5px black solid; 
+	border-radius: 30px; 
+	margin: auto;}
+.procon3{text-align: center;font-size: 23px;font-family: "Fontdiner Swanky", serif;
+ 
+	font-weight: 400;
+	font-style: normal;width: 1700px; 
+	background-color:white;
+
+	border: 5px black solid; 
+	border-radius: 30px;
+	margin:auto;
+	margin-top: 10px
+}
+.aboutan{width:1340px; 
+	background-color:white;
+border: 5px black solid; 
+	border-radius: 40px;;justify-content: space-between;font-size: 30px; 
+	margin:auto;
+	margin-top: 10px;font-family: "Fontdiner Swanky", serif;
+text-align: center;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
